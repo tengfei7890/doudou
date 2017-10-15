@@ -18,5 +18,5 @@ public:
 void InvertedIndex::readfiles(string fp){
     fstream fin;
     fin.open(fp);
-
+    
 }
